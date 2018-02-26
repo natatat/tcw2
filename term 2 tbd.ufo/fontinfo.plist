@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>750</integer>
+	<integer>700</integer>
 	<key>capHeight</key>
-	<integer>750</integer>
+	<integer>675</integer>
 	<key>descender</key>
-	<integer>-250</integer>
+	<integer>-200</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
