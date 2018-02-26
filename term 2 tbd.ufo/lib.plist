@@ -452,8 +452,12 @@
 		<string>degree</string>
 		<string>paragraph</string>
 		<string>space</string>
+		<string>g-alt</string>
 		<string>f-alt</string>
+		<string>a-alt</string>
 		<string>f-alt2</string>
+		<string>y-alt</string>
+		<string>g-alt2</string>
 	</array>
 </dict>
 </plist>
