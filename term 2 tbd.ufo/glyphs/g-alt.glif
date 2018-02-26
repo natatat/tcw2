@@ -3,16 +3,6 @@
   <advance width="540"/>
   <outline>
     <contour>
-      <point x="250" y="427" type="line"/>
-      <point x="266" y="478"/>
-      <point x="277" y="500"/>
-      <point x="305" y="500" type="curve"/>
-      <point x="306" y="484" type="line"/>
-      <point x="287" y="484"/>
-      <point x="267" y="444"/>
-      <point x="253" y="405" type="curve"/>
-    </contour>
-    <contour>
       <point x="292" y="103" type="line"/>
       <point x="276" y="52"/>
       <point x="265" y="30"/>
@@ -87,5 +77,121 @@
       <point x="275" y="-144"/>
       <point x="289" y="-105" type="curve"/>
     </contour>
+    <contour>
+      <point x="250" y="427" type="line"/>
+      <point x="266" y="478"/>
+      <point x="277" y="500"/>
+      <point x="305" y="500" type="curve"/>
+      <point x="306" y="484" type="line"/>
+      <point x="287" y="484"/>
+      <point x="267" y="444"/>
+      <point x="253" y="405" type="curve"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>xtra</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>290</integer>
+                  <key>y</key>
+                  <integer>427</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>287</integer>
+                  <key>y</key>
+                  <integer>405</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>273</integer>
+                  <key>y</key>
+                  <integer>444</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>253</integer>
+                  <key>y</key>
+                  <integer>484</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>234</integer>
+                  <key>y</key>
+                  <integer>484</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>235</integer>
+                  <key>y</key>
+                  <integer>500</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>263</integer>
+                  <key>y</key>
+                  <integer>500</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>274</integer>
+                  <key>y</key>
+                  <integer>478</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>g-alt</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>540</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
