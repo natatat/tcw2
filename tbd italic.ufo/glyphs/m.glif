@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="810"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="285.0" y="0.0" type="curve"/>
+      <point x="343.3226664288797" y="475.0" type="line"/>
+      <point x="345.16443484242325" y="490.0"/>
+      <point x="351.3922804514523" y="500.0"/>
+      <point x="366.3922804514523" y="500.0" type="curve"/>
+      <point x="566.3922804514523" y="500.0" type="line"/>
+      <point x="581.3922804514523" y="500.0"/>
+      <point x="585.1644348424232" y="490.0"/>
+      <point x="583.3226664288796" y="475.0" type="curve"/>
+      <point x="528.0696140225726" y="25.0" type="line"/>
+      <point x="526.227845609029" y="10.0"/>
+      <point x="520.0" y="0.0"/>
+      <point x="505.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="505.0" y="0.0"/>
+      <point x="285.0" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="555.0" y="0.0" type="curve"/>
+      <point x="613.3226664288796" y="475.0" type="line"/>
+      <point x="615.1644348424232" y="490.0"/>
+      <point x="621.3922804514523" y="500.0"/>
+      <point x="636.3922804514523" y="500.0" type="curve"/>
+      <point x="836.3922804514523" y="500.0" type="line"/>
+      <point x="851.3922804514523" y="500.0"/>
+      <point x="855.1644348424232" y="490.0"/>
+      <point x="853.3226664288796" y="475.0" type="curve"/>
+      <point x="798.0696140225726" y="25.0" type="line"/>
+      <point x="796.227845609029" y="10.0"/>
+      <point x="790.0" y="0.0"/>
+      <point x="775.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="775.0" y="0.0"/>
+      <point x="555.0" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="302.42900750554026" y="427.0" type="line"/>
+      <point x="324.6910201115884" y="478.0"/>
+      <point x="338.3922804514523" y="500.0"/>
+      <point x="366.3922804514523" y="500.0" type="curve"/>
+      <point x="365.4277274770058" y="484.0" type="line"/>
+      <point x="346.4277274770058" y="484.0"/>
+      <point x="321.51634504088963" y="444.0"/>
+      <point x="302.72774716567636" y="405.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="572.4290075055403" y="427.0" type="line"/>
+      <point x="594.6910201115884" y="478.0"/>
+      <point x="608.3922804514523" y="500.0"/>
+      <point x="636.3922804514523" y="500.0" type="curve"/>
+      <point x="635.4277274770059" y="484.0" type="line"/>
+      <point x="616.4277274770059" y="484.0"/>
+      <point x="591.5163450408896" y="444.0"/>
+      <point x="572.7277471656764" y="405.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="76.39228045145231" y="500.0" type="line"/>
+      <point x="296.3922804514523" y="500.0" type="line"/>
+      <point x="311.3922804514523" y="500.0"/>
+      <point x="315.16443484242325" y="490.0"/>
+      <point x="313.3226664288797" y="475.0" type="curve"/>
+      <point x="258.06961402257264" y="25.0" type="line"/>
+      <point x="256.22784560902903" y="10.0"/>
+      <point x="250.0" y="0.0"/>
+      <point x="235.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="235.0" y="0.0"/>
+      <point x="15.0" y="0.0"/>
+      <point x="15.0" y="0.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/var/folders/7x/pf9j9jfn5h3_16ngzrss87lw0000gp/T/tmp5dBggI</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>1.880013044491032</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>1.880013044491032</real>
+                <real>-1373.375</real>
+                <real>-497.48000000000013</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>810</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
