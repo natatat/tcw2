@@ -9,18 +9,22 @@
 		<real>0.2</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<true/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<false/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
 	<true/>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<false/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/user/Documents/RoboFonts/tcw2/tbd.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -245,6 +249,12 @@
 				<string>degree</string>
 				<string>paragraph</string>
 				<string>space</string>
+				<string>g-alt</string>
+				<string>f-alt</string>
+				<string>a-alt</string>
+				<string>f-alt2</string>
+				<string>y-alt</string>
+				<string>g-alt2</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

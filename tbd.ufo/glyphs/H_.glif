@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="560"/>
+  <advance width="570"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="295" y="0" type="curve"/>
-      <point x="295" y="650" type="line"/>
-      <point x="295" y="665"/>
-      <point x="300" y="675"/>
-      <point x="315" y="675" type="curve"/>
-      <point x="525" y="675" type="line"/>
-      <point x="540" y="675"/>
-      <point x="545" y="665"/>
-      <point x="545" y="650" type="curve"/>
-      <point x="545" y="25" type="line"/>
-      <point x="545" y="10"/>
-      <point x="540" y="0"/>
-      <point x="525" y="0" type="curve" smooth="yes"/>
-      <point x="525" y="0"/>
-      <point x="295" y="0"/>
+      <point x="305" y="0" type="curve"/>
+      <point x="305" y="650" type="line"/>
+      <point x="305" y="665"/>
+      <point x="310" y="675"/>
+      <point x="325" y="675" type="curve"/>
+      <point x="535" y="675" type="line"/>
+      <point x="550" y="675"/>
+      <point x="555" y="665"/>
+      <point x="555" y="650" type="curve"/>
+      <point x="555" y="25" type="line"/>
+      <point x="555" y="10"/>
+      <point x="550" y="0"/>
+      <point x="535" y="0" type="curve" smooth="yes"/>
+      <point x="535" y="0"/>
+      <point x="305" y="0"/>
     </contour>
     <contour>
       <point x="245" y="0" type="curve"/>
@@ -37,8 +37,8 @@
     </contour>
     <contour>
       <point x="246" y="355" type="line"/>
-      <point x="305" y="355" type="line"/>
-      <point x="305" y="340" type="line"/>
+      <point x="315" y="355" type="line"/>
+      <point x="315" y="340" type="line"/>
       <point x="246" y="340" type="line"/>
     </contour>
   </outline>

@@ -8,6 +8,8 @@
 	<integer>675</integer>
 	<key>descender</key>
 	<integer>-200</integer>
+	<key>familyName</key>
+	<string>tbd</string>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
@@ -26,6 +28,8 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
+	<key>styleName</key>
+	<string>display</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>
